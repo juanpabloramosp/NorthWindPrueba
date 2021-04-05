@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ConsoleApp1
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Clase2
     {
     }
+
 }
