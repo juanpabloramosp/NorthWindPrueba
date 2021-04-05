@@ -6,5 +6,7 @@ namespace ConsoleApp1
 {
     class Clase1
     {
+
+        public string MyProperty { get; set; }
     }
 }
