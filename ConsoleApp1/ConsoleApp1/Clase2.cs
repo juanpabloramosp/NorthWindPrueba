@@ -9,6 +9,8 @@ namespace ConsoleApp1
     /// </summary>
     class Clase2
     {
+
+        //´fórmula para horas extra
     }
 
 }
