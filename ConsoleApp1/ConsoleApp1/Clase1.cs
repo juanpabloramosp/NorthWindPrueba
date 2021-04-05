@@ -12,6 +12,10 @@ namespace ConsoleApp1
         // se agrega fórmula para calcular.
 
        // public int MyProperty { get; set; }
+       void Metodo1()
+        {
+
+        }
 
     }
 }
