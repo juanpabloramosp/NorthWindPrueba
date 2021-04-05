@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class Clase1
     {
+        //Cambio función
     }
 }
