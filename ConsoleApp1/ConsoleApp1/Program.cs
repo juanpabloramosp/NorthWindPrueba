@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
 
-            //Cambio en funcionalidad principoal
+            //Cambio en funcionalidad principal
         }
     }
 }
