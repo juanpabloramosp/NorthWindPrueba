@@ -8,5 +8,10 @@ namespace ConsoleApp1
     {
 
         public string MyProperty { get; set; }
+        //Cambio función
+        // se agrega fórmula para calcular.
+
+        public int MyProperty { get; set; }
+
     }
 }
